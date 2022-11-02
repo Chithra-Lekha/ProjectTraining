@@ -18,7 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Login()
+    public IActionResult Loginy()
     {
         return View();
     }
